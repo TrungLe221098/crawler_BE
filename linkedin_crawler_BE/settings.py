@@ -145,3 +145,4 @@ SIMPLE_JWT = {
     'REFRESH_TOKEN_LIFETIME': timedelta(days=50)
 
 }
+SESSION_COOKIE_SECURE = True
